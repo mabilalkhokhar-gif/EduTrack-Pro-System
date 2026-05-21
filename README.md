@@ -1,2 +1,2 @@
 # EduTrack-Pro-System
-EduTrack Pro is a Java DSA-based system for managing student records with efficient search, sort, update, and data handling features in a console interface.
+EduTrack Pro is a Java-based DSA system for managing student records efficiently using core data structures and algorithms. It implements searching, sorting, and updating of data using TreeMap/arrays along with optimized storage and retrieval techniques. The system focuses on fast and organized data handling through a console-based interface.
